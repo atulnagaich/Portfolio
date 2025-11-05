@@ -54,7 +54,7 @@ This project is perfect for developers who want to **showcase their portfolio dy
 - 💼 **Project Management** – Add, Update, Delete, and List portfolio projects.  
 - 🖼️ **Profile Management** – Upload and update personal data & profile images.  
 - 📄 **Resume Upload/Download** – Store and access your resume dynamically.  
-- 🎓 **Education & Skills** – Dynamic backend-driven sections.  
+- 🎓 **Home,About,Service,Contact** – Dynamic backend-driven sections.  
 - 🔐 **Spring Security Role-Based Login** – Separate access for Admin and Members.  
 - 📬 **Contact Section** – Receive messages from visitors securely.  
 - 🌈 **Fully Responsive UI** – Works seamlessly across all devices.  
